@@ -1,0 +1,222 @@
+.xxx{
+    margin-top:  200px;
+    color: rgb(255, 0, 0);
+    font: 25px sans-serif;
+}
+
+body h1.h3{
+    margin: 0;
+}
+.olma {
+    background-color: blue;
+    width: 70%;
+    margin: o auto;
+    width: 200px;
+}
+.clr{
+    clear: both;
+}
+.css{
+    background-color: rgb(71, 187, 4);
+ /*
+padding-top: 20px;
+padding-right: 25px;
+padding-bottom: 30px;
+padding-left: 35px;
+    */
+    padding: 20px 30px;
+    margin-top: 10px;
+    border: 3px solid rgb(2, 0, 8);
+
+}
+.css h1 {
+text-align: center;
+text-decoration: underline;
+font-family: sans-serif;
+color: rgb(255, 23, 23);
+}
+.css p{
+    color: rgba(241, 5, 5, 0.959);
+
+}
+.zzz{
+ border: 4px dashed rgb(2, 0, 8);
+ margin: 30px;  
+ padding: 20px; 
+}
+
+.zzz{
+    color: rgb(230, 15, 15);
+
+}
+
+button {
+    background-color: rgb(236, 7, 46);
+    color: rgb(12, 1, 1);
+    font: size 20px;
+    border: 2px solid rgb(236, 7, 46);
+    padding: 5px 10px; 
+    border-top-left-radius: 5px;
+    
+}
+.aaa{
+margin: 20px;
+border: solid 5px rgb(19, 3, 3);
+padding: 5px;
+}
+
+button:hover{
+cursor: pointer;
+background-color: rgb(163, 12, 105);
+color: blue;
+}
+
+.aaa{
+    text-align: center;
+    color: blue;
+    font-family:sans-serif
+}
+.mmm{
+    padding: 20px;
+}
+ .mmm {
+    list-style: none;
+    padding: 6px 5px; 
+    border-bottom: 6px solid rgb(223, 32, 32);
+ }
+
+ 
+
+ 
+ 
+ .ggg label{
+
+    display: block;
+    font-size: 20px;
+    color: rgb(247, 19, 38);
+ }
+
+ .ggg input{
+    margin: 9px 0;
+    padding: 22px;
+    color: rgb(77, 12, 163);
+width: 100%;
+
+ }
+
+
+ .kichkina h3{
+    color: rgb(42, 21, 158);
+    border: 1.5px solid rgb(15, 3, 3);
+    
+
+ }
+
+
+ .kichkina{
+float: left;
+width: 33.3%;
+padding: 15px;
+margin: 20px;
+border: 3px solid rgb(19, 9, 9);
+color: red;
+
+ }
+ .AAA{
+    float: left;
+    width: 55%;
+background-color: rgb(255, 0, 149);
+color: black;
+border: 4px solid rgb(15, 3, 3);
+ }
+
+.qqq{
+    float: left;
+    width: 30%;
+    background-color: rgb(255, 0, 157);
+    color: rgb(20, 3, 3); 
+    margin: 22px;
+border: 5px solid rgb(15, 3, 3);;
+}
+
+.NNN{
+    position: relative;
+    width: 500px;
+    height: 330px;
+    background-image:url(photo_2024-04-27_18-18-38.jpg);
+    margin: 3px 500px;
+    border:3px solid rgb(36, 11, 197);
+    background-size: contain;
+    
+}
+
+.NNN{
+   position: absolute;
+margin:  35px;
+margin: 10px;
+margin-top: 700px;
+
+} 
+
+.oqibat{
+position: absolute;
+top: 20px;
+right: 10px;
+
+}
+.fixed{
+position: fixed;
+left: 0;
+top: 50%;
+
+}
+.list-items, li{
+    color: #ef134a;
+    padding: 8px;
+    list-style-type:none ;
+}
+
+
+
+
+.list-items li:nth-child(even){
+background-color: green;
+}
+
+
+
+/*.list-items li :first-child{
+    background-color: #ef134a;
+    color: #ffff;
+}*/
+
+
+.list-itemsli :last-child{
+background-color: rgb(28, 0, 240)
+color( rgb(227, 10, 31))
+
+}
+
+.madina {
+    width: 50%;
+    border-collapse: collapse ;
+    
+}
+
+.tablel th{
+    border: 2px solid red;
+    background-color: aqua;
+    color: black;
+    padding: 5px;
+}
+.tablel td{
+    text-align: center;
+    border: 2px solid rgb(130, 9, 251);
+    padding: 5px;
+}
+
+
+
+.tablel tr :nth-child(even){
+    background-color: blue;
+}
